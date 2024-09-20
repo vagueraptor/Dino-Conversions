@@ -1,0 +1,24 @@
+{
+  "dinoMappings": [
+    {
+      "fromClass": "/AACeratosaurus/Dinos/CeratosaurusAA_Character_BP.CeratosaurusAA_Character_BP",
+      "toClass": "/Game/ASA/Dinos/Ceratosaurus/Dinos/Ceratosaurus_Character_BP_ASA.Ceratosaurus_Character_BP_ASA"
+    },
+    {
+      "fromClass": "/AADeinosuchus/Dinos/DeinosuchusAA_Character_BP.DeinosuchusAA_Character_BP",
+      "toClass": "/Game/ASA/Dinos/Deinosuchus/DeinosuchusASA_Character_BP.DeinosuchusASA_Character_BP"
+    },
+    {
+      "fromClass": "/AAXipachtinus/Dinos/XiphactinusAA_Character_BP.XiphactinusAA_Character_BP",
+      "toClass": "/Game/ASA/Dinos/Xiphactinus/Dinos/Xiphactinus_Character_BP_ASA.Xiphactinus_Character_BP_ASA"
+    },
+    {
+      "fromClass": "/Gigantoraptor/Gigantoraptor/Gigantoraptor_Character_BP.Gigantoraptor_Character_BP",
+      "toClass": "/Game/ASA/Dinos/Gigantoraptor/Gigantoraptor_Character_BP.Gigantoraptor_Character_BP"
+    },
+    {
+      "fromClass": "/Game/PrimalEarth/Dinos/Anglerfish/Angler_Character_BP.Angler_Character_BP",
+      "toClass": "/Game/PrimalEarth/Dinos/Anglerfish/Angler_Character_BP_Aberrant.Angler_Character_BP_Aberrant"
+    }
+  ]
+}
