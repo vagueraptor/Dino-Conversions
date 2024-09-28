@@ -21,7 +21,7 @@
       "toClass": "/Game/PrimalEarth/Dinos/Anglerfish/Angler_Character_BP_Aberrant.Angler_Character_BP_Aberrant"
     },
     { 
-      "fromClass": "AAXipachtinus/Dinos/XiphactinusAA_Abyssal_Character_BP.XiphactinusAA_Abyssal_Character_BP"
+      "fromClass": "AAXipachtinus/Dinos/XiphactinusAA_Abyssal_Character_BP.XiphactinusAA_Abyssal_Character_BP",
       "toClass": "/Game/ASA/Dinos/Xiphactinus/Dinos/Xiphactinus_Character_BP_ASA.Xiphactinus_Character_BP_ASA"
     }
   ]
