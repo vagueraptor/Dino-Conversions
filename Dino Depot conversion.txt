@@ -21,7 +21,7 @@
       "toClass": "/Game/PrimalEarth/Dinos/Anglerfish/Angler_Character_BP_Aberrant.Angler_Character_BP_Aberrant"
     },
     {
-      "fromClass": "/AADeinotherium/Dinos/DeinotheriumAA_Character_BP.DeinotheriumAA_Character_BP",
+      "fromClass": "/Game/AADeinotherium/Dinos/DeinotheriumAA_Character_BP.DeinotheriumAA_Character_BP",
       "toClass": "/Game/ASA/Dinos/Deinotherium/Dinos/DeinotheriumASA_Character_BP.DeinotheriumASA_Character_BP"
   ]
 }
