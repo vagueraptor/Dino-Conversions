@@ -25,8 +25,16 @@
       "toClass": "/Game/ASA/Dinos/Deinotherium/Dinos/DeinotheriumASA_Character_BP.DeinotheriumASA_Character_BP"
     },
     {
-      "fromClass": "/felis/dinos/felis_character_bp.felis_character_BP",
-      "toClass": "cat/dinos/cat_character_bp.cat_character_bp",
+      "fromClass": /Atlas_Felis/Cat/Felis_Character_BP.Felis_Character_BP_C",
+      "toClass": "/game/ASA/dinos/cat/dinos/cat_character_bp.cat_character_bp",
+    },
+    {
+      "fromClass": /Atlas_Felis/Cat/Felis_Character_BP_Aberrant.Felis_Character_BP_Aberrant",
+      "toClass": "/game/ASA/dinos/cat/dinos/cat_character_bp.cat_character_bp",
+    },
+    {
+      "fromClass": /Atlas_Felis/Cat/Felis_Character_BP_Scorched.Felis_Character_BP_Scorched",
+      "toClass": "/game/ASA/dinos/cat/dinos/cat_character_bp.cat_character_bp",
     }
   ]
 }
