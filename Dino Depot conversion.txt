@@ -1,8 +1,8 @@
 {
   "dinoMappings": [
     {
-      "fromClass": "/AACeratosaurus/Dinos/CeratosaurusAA_Character_BP.CeratosaurusAA_Character_BP",
-      "toClass": "/Game/ASA/Dinos/Ceratosaurus/Dinos/Ceratosaurus_Character_BP_ASA.Ceratosaurus_Character_BP_ASA"
+      "fromClass": "/PortsOfAtlas/Creatures/Jackrabbit/Jackrabbit_Character_BP.Jackrabbit_Character_BP",
+      "toClass": "/Game/ScorchedEarth/Dinos/Jerboa/Jerboa_Character_BP.Jerboa_Character_BP"
     },
     {
       "fromClass": "/AADeinosuchus/Dinos/DeinosuchusAA_Character_BP.DeinosuchusAA_Character_BP",
@@ -38,3 +38,4 @@
     }
   ]
 }
+
