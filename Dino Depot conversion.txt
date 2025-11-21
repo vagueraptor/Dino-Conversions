@@ -22,7 +22,7 @@
     },
     {
       "fromClass": "/PortsOfAtlas/Creatures/Ostrich/Ostrich_Character_BP.Ostrich_Character_BP",
-      "toClass": "/Game/PrimalEarth/Dinos/TerrorBird/TerrorBird_Character_BP.TerrorBird_Character_BP"
+      "toClass": "/Game/PrimalEarth/Dinos/Raptor/Raptor_Character_BP.Raptor_Character_BP"
     },
     {
       "fromClass": "/PortsOfAtlas/Creatures/Parrot/Parrot_Character_BP.Parrot_Character_BP",
@@ -42,5 +42,6 @@
     }
   ]
 }
+
 
 
