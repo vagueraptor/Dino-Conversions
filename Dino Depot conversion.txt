@@ -5,37 +5,42 @@
       "toClass": "/Game/ScorchedEarth/Dinos/Jerboa/Jerboa_Character_BP.Jerboa_Character_BP"
     },
     {
-      "fromClass": "/AADeinosuchus/Dinos/DeinosuchusAA_Character_BP.DeinosuchusAA_Character_BP",
-      "toClass": "/Game/ASA/Dinos/Deinosuchus/DeinosuchusASA_Character_BP.DeinosuchusASA_Character_BP"
+      "fromClass": "/CyrusGecko/Content/Creatures/Gecko/AbberantGecko_Character_BP.AbberantGecko_Character_BP",
+      "toClass": "/Game/Aberration/Dinos/LanternLizard/LanternLizard_Character_BP.LanternLizard_Character_BP"
     },
     {
-      "fromClass": "/AAXipachtinus/Dinos/XiphactinusAA_Character_BP.XiphactinusAA_Character_BP",
-      "toClass": "/Game/ASA/Dinos/Xiphactinus/Dinos/Xiphactinus_Character_BP_ASA.Xiphactinus_Character_BP_ASA"
+      "fromClass": "/CyrusGecko/Content/Creatures/Gecko/BigGecko_Character_BP.BigGecko_Character_BP",
+      "toClass": "/Game/Aberration/Dinos/LanternLizard/LanternLizard_Character_BP.LanternLizard_Character_BP"
     },
     {
-      "fromClass": "/Gigantoraptor/Gigantoraptor/Gigantoraptor_Character_BP.Gigantoraptor_Character_BP",
-      "toClass": "/Game/ASA/Dinos/Gigantoraptor/Gigantoraptor_Character_BP.Gigantoraptor_Character_BP"
+      "fromClass": "/CyrusGecko/Content/Creatures/Gecko/Gecko_Character_BP.Gecko_Character_BP",
+      "toClass": "/Game/Aberration/Dinos/LanternLizard/LanternLizard_Character_BP.LanternLizard_Character_BP"
     },
     {
-      "fromClass": "/AAArchelon/Dinos/ArchelonAA_Character_BP.ArchelonAA_Character_BP",
+      "fromClass": "/PortsOfAtlas/Creatures/GrandTortugar/GrandTortugar_Character_BP.GrandTortugar_Character_BP",
       "toClass": "/Game/ASA/Dinos/Archelon/Dinos/Archelon_Character_BP_ASA.Archelon_Character_BP_ASA"
     },
     {
-      "fromClass": "/AADeinotherium/Dinos/DeinotheriumAA_Character_BP.DeinotheriumAA_Character_BP",
-      "toClass": "/Game/ASA/Dinos/Deinotherium/Dinos/DeinotheriumASA_Character_BP.DeinotheriumASA_Character_BP"
+      "fromClass": "/PortsOfAtlas/Creatures/Ostrich/Ostrich_Character_BP.Ostrich_Character_BP",
+      "toClass": "/Game/PrimalEarth/Dinos/TerrorBird/TerrorBird_Character_BP.TerrorBird_Character_BP"
     },
     {
-      "fromClass": "/Atlas_Felis/Cat/Felis_Character_BP.Felis_Character_BP",
-      "toClass": "/Game/ASA/Dinos/Cat/Cat_Character_BP.Cat_Character_BP"
+      "fromClass": "/PortsOfAtlas/Creatures/Parrot/Parrot_Character_BP.Parrot_Character_BP",
+      "toClass": "/Game/Extinction/Dinos/Gacha/Gacha_Character_BP.Gacha_Character_BP"
     },
     {
-      "fromClass": "/Atlas_Felis/Cat/Felis_Character_BP_Aberrant.Felis_Character_BP_Aberrant",
-      "toClass": "/Game/ASA/Dinos/Cat/Cat_Character_BP.Cat_Character_BP"
+      "fromClass": "/PortsOfAtlas/Creatures/Parrot/Parrot_Character_BP_Aberrant.Parrot_Character_BP_Aberrant",
+      "toClass": "/Game/Extinction/Dinos/Gacha/Gacha_Character_BP.Gacha_Character_BP"
     },
     {
-      "fromClass": "/Atlas_Felis/Cat/Felis_Character_BP_Scorched.Felis_Character_BP_Scorched",
+      "fromClass": "/PortsOfAtlas/Creatures/Seahorse/Seahorse_Character_BP.Seahorse_Character_BP",
+      "toClass": "/Game/ASA/Dinos/Xiphactinus/Dinos/Xiphactinus_Character_BP_ASA.Xiphactinus_Character_BP_ASA" 
+    },
+    {
+      "fromClass": "/PortsOfAtlas/Creatures/Jackrabbit/Jackrabbit_Character_Jackalope_BP.Jackrabbit_Character_Jackalope_BP",
       "toClass": "/Game/ASA/Dinos/Cat/Cat_Character_BP.Cat_Character_BP"
     }
   ]
 }
+
 
