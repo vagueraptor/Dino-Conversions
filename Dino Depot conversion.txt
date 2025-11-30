@@ -1,47 +1,12 @@
 {
   "dinoMappings": [
     {
-      "fromClass": "/PortsOfAtlas/Creatures/Jackrabbit/Jackrabbit_Character_BP.Jackrabbit_Character_BP",
-      "toClass": "/Game/ScorchedEarth/Dinos/Jerboa/Jerboa_Character_BP.Jerboa_Character_BP"
-    },
-    {
-      "fromClass": "/CyrusGecko/Content/Creatures/Gecko/AbberantGecko_Character_BP.AbberantGecko_Character_BP",
-      "toClass": "/Game/Aberration/Dinos/LanternLizard/LanternLizard_Character_BP.LanternLizard_Character_BP"
-    },
-    {
-      "fromClass": "/CyrusGecko/Content/Creatures/Gecko/BigGecko_Character_BP.BigGecko_Character_BP",
-      "toClass": "/Game/Aberration/Dinos/LanternLizard/LanternLizard_Character_BP.LanternLizard_Character_BP"
-    },
-    {
-      "fromClass": "/CyrusGecko/Content/Creatures/Gecko/Gecko_Character_BP.Gecko_Character_BP",
-      "toClass": "/Game/Aberration/Dinos/LanternLizard/LanternLizard_Character_BP.LanternLizard_Character_BP"
-    },
-    {
-      "fromClass": "/PortsOfAtlas/Creatures/GrandTortugar/GrandTortugar_Character_BP.GrandTortugar_Character_BP",
-      "toClass": "/Game/ASA/Dinos/Archelon/Dinos/Archelon_Character_BP_ASA.Archelon_Character_BP_ASA"
-    },
-    {
-      "fromClass": "/PortsOfAtlas/Creatures/Ostrich/Ostrich_Character_BP.Ostrich_Character_BP",
-      "toClass": "/Game/PrimalEarth/Dinos/Raptor/Raptor_Character_BP.Raptor_Character_BP"
-    },
-    {
-      "fromClass": "/PortsOfAtlas/Creatures/Parrot/Parrot_Character_BP.Parrot_Character_BP",
-      "toClass": "/Game/Extinction/Dinos/Gacha/Gacha_Character_BP.Gacha_Character_BP"
-    },
-    {
-      "fromClass": "/PortsOfAtlas/Creatures/Parrot/Parrot_Character_BP_Aberrant.Parrot_Character_BP_Aberrant",
-      "toClass": "/Game/Extinction/Dinos/Gacha/Gacha_Character_BP.Gacha_Character_BP"
-    },
-    {
-      "fromClass": "/PortsOfAtlas/Creatures/Seahorse/Seahorse_Character_BP.Seahorse_Character_BP",
-      "toClass": "/Game/ASA/Dinos/Xiphactinus/Dinos/Xiphactinus_Character_BP_ASA.Xiphactinus_Character_BP_ASA" 
-    },
-    {
-      "fromClass": "/PortsOfAtlas/Creatures/Jackrabbit/Jackrabbit_Character_Jackalope_BP.Jackrabbit_Character_Jackalope_BP",
-      "toClass": "/Game/ASA/Dinos/Cat/Cat_Character_BP.Cat_Character_BP"
+      "fromClass": "/AA_Anomalo/Dinos/AnomalocarisAA_Character_BP.AnomalocarisAA_Character_BP",
+      "toClass": "/Game/Aberration/Dinos/Crab/Crab_Character_BP.Crab_Character_BP"
     }
   ]
 }
+
 
 
 
